@@ -1,10 +1,19 @@
 # Kaohom Jewelry Business Analysis
 Table of Contents:
 - [Project Background](#Project-Background)
-- [Project/Business Workflow](Project/Business-Workflow)
-- [Insight Summary](Insight-Summary)
-- [Insights Deep-Dive](Insights-Deep-Dive)
-- [Recommendations](Recommendations)
+- [Project/Business Workflow](#Project/Business-Workflow)
+- [Insight Summary](#Insight-Summary)
+- [Insights Deep-Dive](#Insights-Deep-Dive)
+  - [Sales Trend and Growth Rate](#Sales-Trend-and-Growth-Rate)
+  - [Net Earnings](#Net-Earnings)
+  - [Demographic Insights](#Demographic-Insights)
+  - [Spending Trends and Expense Metrics](#Spending-Trends-and-Expense-Metrics)
+  - [CLV and CAC Ratio](#CLV-and-CAC-Ratio)
+  - [Influencer ROI & Efficiency](#Influencer-RO--Efficiency)
+  - [Branch Contribution and Comparative Metrics](#Branch-Contribution-and-Comparative-Metrics)
+  - [Key Product Performance](#Key-Product-Performance)
+  - [Email Funnel Performance: Drop-Off & Conversion Analysis](#Email-Funnel-Performance-Drop-Off--Conversion-Analysis)
+- [Recommendations](#Recommendations)
 ## Project Background
 Kaohom Jewelry is a mock business dataset I created for a learning project, simulating operations from January 2022 to December 2024. The business specializes in jewelry accessories, including silver, pearl, gold, and diamond pieces. The dataset is designed to reflect real-world complexity, covering multiple levels of analysis: transactional, customer, marketing performance, manpower, funnel performance, business efficiency and business outcomes.
 
@@ -22,7 +31,7 @@ This analysis is based on 35,000 sales records from 2022 to 2024, with total rev
 ### Demographic Insights (Customer Understanding)
 ### Spending Trends and Expense Metrics
 ### CLV and CAC Ratio
-### Influencer Efficiency
+### Influencer ROI & Efficiency
 ### Branch Contribution and Comparative Metrics
 ### Key Product Performance
 ### Email Funnel Performance: Drop-Off & Conversion Analysis
