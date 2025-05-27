@@ -1,6 +1,10 @@
 # Kaohom Jewelry Business Analysis
 Table of Contents:
-- [Project Background](#Project Background)
+- [Project Background](#Project-Background)
+- [Project/Business Workflow](Project/Business-Workflow)
+- [Insight Summary](Insight-Summary)
+- [Insights Deep-Dive](Insights-Deep-Dive)
+- [Recommendations](Recommendations)
 ## Project Background
 Kaohom Jewelry is a mock business dataset I created for a learning project, simulating operations from January 2022 to December 2024. The business specializes in jewelry accessories, including silver, pearl, gold, and diamond pieces. The dataset is designed to reflect real-world complexity, covering multiple levels of analysis: transactional, customer, marketing performance, manpower, funnel performance, business efficiency and business outcomes.
 
