@@ -50,7 +50,7 @@ This analysis is based on 35,000 sales records from 2022 to 2024, with total rev
 
 
 <p align="center">
-<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/e719922d9ada31ae1d9f13ee392d8f2203157b78/viz%20%26%20screenshot/CLV_and_Count_by_Age_Group.png" alt="CLV age" width=412>
+<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/e719922d9ada31ae1d9f13ee392d8f2203157b78/viz%20%26%20screenshot/CLV_and_Count_by_Age_Group.png" alt="CLV age" width=400>
 <img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/e719922d9ada31ae1d9f13ee392d8f2203157b78/viz%20%26%20screenshot/Monthly_Average_CLV.png" alt="Average CLV Monthly" width=350>
 <p/>
 
@@ -71,8 +71,8 @@ This analysis is based on 35,000 sales records from 2022 to 2024, with total rev
 - Revenue held steady at around $10 million per month, with a sharp 300% spike in December 2024. Monthly orders averaged about 1,000, also seeing a similar spike. The sudden jump was mainly due to my data mock-up not being as realistic as it should’ve been. It's a good reminder of how important accurate test data is for reliable analysis.
 - March 2022 recorded a 42% growth rate, driven by a 15% reduction in marketing spend and a 33.8% increase in customer numbers. Also in December 2022 reached 22%, mainly driven by returning customers. These insights can be applied to improve the effectiveness of future campaigns.
 <p align="center">
-  <img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/219ae7d3045f953ca03b961c363f9b90589600be/viz%20%26%20screenshot/Monthly_Metrics_and_Growth_Rates_by_Year.png" width=1650>
-  <img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/e719922d9ada31ae1d9f13ee392d8f2203157b78/viz%20%26%20screenshot/Screenshot%20(264).png" width=1250>
+  <img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/219ae7d3045f953ca03b961c363f9b90589600be/viz%20%26%20screenshot/Monthly_Metrics_and_Growth_Rates_by_Year.png" width=1550>
+  <img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/e719922d9ada31ae1d9f13ee392d8f2203157b78/viz%20%26%20screenshot/Screenshot%20(264).png" width=1150>
   <p/>
     
 ---
