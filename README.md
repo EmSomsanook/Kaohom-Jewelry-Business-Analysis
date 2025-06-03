@@ -23,8 +23,11 @@ While working on this project, I imagined the end-to-end business workflow as if
 </p>
 Project Workflow: Blurred on purpose. No secrets, just don’t want to spoil the fun😉.
 
+
+PS. I'm not planning to do RFM or any customer segmentation at this stage, as this is just a learning project and I prefer to avoid that level of complexity for now.
+
 ## Insight Summary
-This analysis is based on 35,000 sales records from 2022 to 2024, with total revenue consistently reaching approximately $10 million. 76% of sales were generated through physical branches, while 24% came from the online website. The average Customer Lifetime Value(CLV) across all channels is approximately $550, with a mean Customer Acquisition Cost (CAC) ratio of 15. These figures indicate that the business is both healthy and profitable. Strong customer retention plays a key role, with 72% of all-time customers being repeat buyers and only 28% making a one-time purchase. This high retention rate suggests effective customer engagement and long-term value creation.
+This analysis is based on 35,000 sales records from 2022 to 2024, with total revenue consistently reaching approximately $10 million. 76% of sales were generated through physical branches, while 24% came from the online website. The average Customer Lifetime Value(CLV) across all channels is approximately $600, with a mean Customer Acquisition Cost (CAC) ratio of 15. These figures indicate that the business is both healthy and profitable. Strong customer retention plays a key role, with 72% of all-time customers being repeat buyers and only 28% making a one-time purchase. This high retention rate suggests effective customer engagement and long-term value creation.
 
 ## Insights Deep-Dive and Specific Recommendations
 ### Demographic Insights (Customer Understanding and Branch Contribution and Comparative Metrics)
