@@ -34,15 +34,15 @@ This analysis is based on 35,000 sales records from 2022 to 2024, with total rev
 - Monthly customer volume stable at around 900. Customer retention is a major strength, with 72% of customers making repeat purchases and only 28% being one-time buyers.
 - Repeat buyer rates remain stable at 50–55% month-on-month, despite strong long-term retention (72% of all-time customers). This indicates that monthly revenue growth still relies heavily on acquiring new customers. At the same time, the upward trend in repeat buyer share suggests our CRM is performing well. To move beyond assumption, we should A/B test CRM impact by comparing retention between customers with and without CRM exposure. If the data shows causation, not just correlation, we’ll have clear justification to scale CRM investment. Otherwise, resources can be reallocated to higher-yield acquisition channels.
 <p align="center">
-<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/e719922d9ada31ae1d9f13ee392d8f2203157b78/viz%20%26%20screenshot/Monthly_Customer_Growth.png" alt="Customer Growth" width= 450>
-<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/e16c074dfcb685ba1a54de668f0f656932d8daa9/viz%20%26%20screenshot/Screenshot%20(3).png" alt="All-time Customer Share" width=450>
+<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/e719922d9ada31ae1d9f13ee392d8f2203157b78/viz%20%26%20screenshot/Monthly_Customer_Growth.png" alt="Customer Growth" width= 350>
+<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/e16c074dfcb685ba1a54de668f0f656932d8daa9/viz%20%26%20screenshot/Screenshot%20(3).png" alt="All-time Customer Share" width=350>
 </p>
 
 ---
 - Customer data shows that 60% of our buyers are Lao citizens, with 20% from Thailand and 20% from other nationalities. Gender distribution is nearly balanced at 50/50. This insight shows strong local support, showing a point of pride and proof of product-market fit in our home country. At the same time, with 40% of customers being non-Lao, we see clear potential for international growth. This diversity signals that our product quality and pricing are competitive beyond local borders. The balanced gender ratio also suggests we should maintain inclusive marketing strategies, avoiding assumptions that jewelry appeals primarily to women. This helps us avoid gender bias and better serve a wider audience.
 <p align="center">
-<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/999ff4b4c7d34fb68980290a92105fc18b579be6/viz%20%26%20screenshot/Customer_Count_by_Nationality.png" alt="Customer Nationality" width=450>
-<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/4342a47bb98781b76c086fe65cfd2526ab7ac4e8/viz%20%26%20screenshot/Customer_Count_by_Gender.png" alt="Customer Gender" width=450>
+<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/999ff4b4c7d34fb68980290a92105fc18b579be6/viz%20%26%20screenshot/Customer_Count_by_Nationality.png" alt="Customer Nationality" width=350>
+<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/4342a47bb98781b76c086fe65cfd2526ab7ac4e8/viz%20%26%20screenshot/Customer_Count_by_Gender.png" alt="Customer Gender" width=350>
 </p>
 
 ---
@@ -50,16 +50,16 @@ This analysis is based on 35,000 sales records from 2022 to 2024, with total rev
 
 
 <p align="center">
-<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/e719922d9ada31ae1d9f13ee392d8f2203157b78/viz%20%26%20screenshot/CLV_and_Count_by_Age_Group.png" alt="CLV age" width=512>
-<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/e719922d9ada31ae1d9f13ee392d8f2203157b78/viz%20%26%20screenshot/Monthly_Average_CLV.png" alt="Average CLV Monthly" width=450>
+<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/e719922d9ada31ae1d9f13ee392d8f2203157b78/viz%20%26%20screenshot/CLV_and_Count_by_Age_Group.png" alt="CLV age" width=412>
+<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/e719922d9ada31ae1d9f13ee392d8f2203157b78/viz%20%26%20screenshot/Monthly_Average_CLV.png" alt="Average CLV Monthly" width=350>
 <p/>
 
 ---
 - Customer share by branch shows the highest contribution from the online website at 23.5%, followed by the Luang Prabang shop at 21.7% and the Vientiane shop at 20.3%, with CLV performance showing minimal variance across all branches. However, total sales are still dominated by physical branches at 76.5%, with online contributing 23.5%. This indicates clear potential to grow the online channel further while also strengthening CRM efforts for offline customers.
 <p align="center">
-<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/317ffc25ba192991934045ed121bf3d767c25ed0/viz%20%26%20screenshot/Customer_Count_by_Branch.png" alt="Customer Count by Branch" width="450">
-<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/e719922d9ada31ae1d9f13ee392d8f2203157b78/viz%20%26%20screenshot/Average_CLV_by_Branch.png" alt="CLV all Branches" width=450>
-<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/219ae7d3045f953ca03b961c363f9b90589600be/viz%20%26%20screenshot/Monthly_Metrics_and_Growth_Rates_by_Branch_and_Year.png" width=900>
+<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/317ffc25ba192991934045ed121bf3d767c25ed0/viz%20%26%20screenshot/Customer_Count_by_Branch.png" alt="Customer Count by Branch" width="350">
+<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/e719922d9ada31ae1d9f13ee392d8f2203157b78/viz%20%26%20screenshot/Average_CLV_by_Branch.png" alt="CLV all Branches" width=350>
+<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/219ae7d3045f953ca03b961c363f9b90589600be/viz%20%26%20screenshot/Monthly_Metrics_and_Growth_Rates_by_Branch_and_Year.png" width=700>
 <p/>
   
 ---
