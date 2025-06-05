@@ -68,12 +68,12 @@ This analysis is based on 35,000 sales records from 2022 to 2024, with total rev
 - Monthly marketing spend averages $8,400, with Facebook Ads being the primary channel. While the highest overall expense remains Cost of Goods Sold (COGS), it's excluded from metric-based analysis, as it consistently yields a 50% profit margin by design.
 <p align="center">
 <img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/cc2985b22f630455b8facda431029124637613b6/viz%20%26%20screenshot/Marketing_Spend_by_Channel.png" width=350>
-<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/cc2985b22f630455b8facda431029124637613b6/viz%20%26%20screenshot/Screenshot%20(263).png" width=550>
+<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/cc2985b22f630455b8facda431029124637613b6/viz%20%26%20screenshot/Screenshot%20(263).png" width=560>
 </p>
 
 ### Acquisition Channel Efficiency
-- Analysis of first-touch data shows that walk-in traffic remains the top acquisition channel. This is partly due to attribution gaps that many customers see online ads but head straight to the physical store without triggering UTM tracking. This highlights the critical role of offline presence in building trust, especially in a high-value category like jewelry. As we scale online, offline cannot be neglected. This also reinforces the logic behind our current cost structure, which prioritizes support for physical channels.
-- If we exclude offline channels, which are hard to track, influencer marketing shows the best performance. It also costs only half as much as Facebook Ads. This clearly suggests we should invest more in influencer marketing and reduce spending on Facebook Ads to improve efficiency.
+- Analysis of first-touch data shows that walk-in traffic is the top acquisition channel. This is partly due to attribution gaps that many customers see online ads but head straight to the physical store without triggering UTM tracking. This highlights the critical role of offline presence in building trust, especially in a high-value category like jewelry. As we scale online, offline cannot be neglected. This also reinforces the logic behind our current cost structure, which prioritizes support for physical channels.
+- If we exclude offline channels, which are hard to track. Influencer marketing delivers the highest acquisition performance, with 8% more new customers compared to Facebook Ads, while costing only half as much. However, it comes with an 8% lower CLV as a trade-off. Even so, this clearly suggests we should invest more in influencer marketing and reduce spending on Facebook Ads to improve efficiency.
 <p align="center">
 <img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/cc2985b22f630455b8facda431029124637613b6/viz%20%26%20screenshot/Yearly_Acquisition_Channel_Performance%20(1).png" width=350>
 </p>
