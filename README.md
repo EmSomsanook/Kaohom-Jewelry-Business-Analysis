@@ -64,8 +64,22 @@ This analysis is based on 35,000 sales records from 2022 to 2024, with total rev
   
 ---
 ### Spending Trends and Expense Metrics
-### CLV and CAC Ratio
+- Our manpower-related fixed cost stands at $31,700, with 36% allocated to customer acquisition and 64% directed toward retention and other operational processes. This cost structure reflects a heavier focus on sustaining operations and serving existing customers.
+- Monthly marketing spend averages $8,400, with Facebook Ads being the primary channel. While the highest overall expense remains Cost of Goods Sold (COGS), it's excluded from metric-based analysis, as it consistently yields a 50% profit margin by design.
+<p align="center">
+<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/cc2985b22f630455b8facda431029124637613b6/viz%20%26%20screenshot/Marketing_Spend_by_Channel.png" width=350>
+<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/cc2985b22f630455b8facda431029124637613b6/viz%20%26%20screenshot/Screenshot%20(263).png" width=550>
+</p>
+
+### Acquisition Channel Efficiency
+- Analysis of first-touch data shows that walk-in traffic remains the top acquisition channel. This is partly due to attribution gaps that many customers see online ads but head straight to the physical store without triggering UTM tracking. This highlights the critical role of offline presence in building trust, especially in a high-value category like jewelry. As we scale online, offline cannot be neglected. This also reinforces the logic behind our current cost structure, which prioritizes support for physical channels.
+- If we exclude offline channels, which are hard to track, influencer marketing shows the best performance. It also costs only half as much as Facebook Ads. This clearly suggests we should invest more in influencer marketing and reduce spending on Facebook Ads to improve efficiency.
+<p align="center">
+<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/cc2985b22f630455b8facda431029124637613b6/viz%20%26%20screenshot/Yearly_Acquisition_Channel_Performance%20(1).png" width=350>
+</p>
+  
 ### Influencer ROI & Efficiency
+### CLV and CAC Ratio
 ### Key Product Performance
 ### Sales Trend and Growth Rate
 - Revenue held steady at around $10 million per month, with a sharp 300% spike in December 2024. Monthly orders averaged about 1,000, also seeing a similar spike. The sudden jump was mainly due to my data mock-up not being as realistic as it should’ve been. It's a good reminder of how important accurate test data is for reliable analysis.
