@@ -6,7 +6,6 @@ Table of Contents:
 - [Insights Deep-Dive and Specific Recommendations](#Insights-Deep-Dive-and-Specific-Recommendations)
   - [Demographic Insights](#Demographic-Insights)
   - [Spending Trends and Expense Metrics](#Spending-Trends-and-Expense-Metrics)
-  - [CLV and CAC Ratio](#CLV-and-CAC-Ratio)
   - [Influencer ROI & Efficiency](#Influencer-RO--Efficiency)
   - [Key Product Performance](#Key-Product-Performance)
   - [Sales Trend and Growth Rate](#Sales-Trend-and-Growth-Rate)
@@ -75,11 +74,31 @@ This analysis is based on 35,000 sales records from 2022 to 2024, with total rev
 - Analysis of first-touch data shows that walk-in traffic is the top acquisition channel. This is partly due to attribution gaps that many customers see online ads but head straight to the physical store without triggering UTM tracking. This highlights the critical role of offline presence in building trust, especially in a high-value category like jewelry. As we scale online, offline cannot be neglected. This also reinforces the logic behind our current cost structure, which prioritizes support for physical channels.
 - If we exclude offline channels, which are hard to track. Influencer marketing delivers the highest acquisition performance, with 8% more new customers compared to Facebook Ads, while costing only half as much. However, it comes with an 8% lower CLV as a trade-off. Even so, this clearly suggests we should invest more in influencer marketing and reduce spending on Facebook Ads to improve efficiency.
 <p align="center">
-<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/cc2985b22f630455b8facda431029124637613b6/viz%20%26%20screenshot/Yearly_Acquisition_Channel_Performance%20(1).png" width=350>
+<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/cc2985b22f630455b8facda431029124637613b6/viz%20%26%20screenshot/Yearly_Acquisition_Channel_Performance%20(1).png" width=450>
+</p>
+
+---
+- The average cost per acquisition (CAC) across all marketing spend is approximately $18 per new customer.
+- June and November 2022 stand out, with CAC dropping below $10, making them valuable case studies for future campaign planning. However, when we include manpower costs dedicated to acquisition, we get a more accurate picture of true CAC. Rises to an average of $44. This small adjustment gives us a clearer understanding of the real cost behind each new customer.
+<p align="center">
+<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/56560946d09fb99bad0546d311b96e1dc8d54bf4/viz%20%26%20screenshot/Marketing_CAC.png" width=455>
+<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/56560946d09fb99bad0546d311b96e1dc8d54bf4/viz%20%26%20screenshot/Marketing_Manpower_CAC.png" width=450>
+</p>
+
+- Finally, the return on ad spend (ROAS) demonstrates strong performance, with an average ratio of 15 when comparing customer value to acquisition cost. This indicates a high level of marketing efficiency. Given this return, reallocating more budget toward high-performing channels like influencer marketing presents a strategic opportunity to further improve results. The next section outlines key influencer insights to guide reinvestment decisions.
+<p align="center">
+<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/65b8a236e1cceea2345b2f9eab7896542bd98b4a/viz%20%26%20screenshot/CLVCAC_Ratio.png" width=450">
 </p>
   
 ### Influencer ROI & Efficiency
-### CLV and CAC Ratio
+- Based on the top ten influencer channels sorted by ratio, MichaelAcademy stands out by securing all top three positions, consistently delivering the lowest CAC and high CLV. This makes him a clear priority for reinvestment. For a well-balanced budget allocation, other strong-performing options include MichelleUniverse, CarmenSport, and KristinTravel. These channels offer a solid mix of cost efficiency and customer value, making them strategic choices for scaling.
+- MichelleUniverse has the highest CAC among the three, but also delivers the highest CLV. This suggests potential for a customer base retention strategy to maximize long-term value.
+- CarmenSport shows the lowest CAC along with a lower CLV. However, securing two spots in the top ten indicates strong potential. Reinvestment is recommended, alongside introducing loyalty programs or bundled offers to lift CLV.
+- KristinTravel follows a clear scaling strategy, evidenced by the highest customer volume and total sales, with acceptable CAC and CLV. Reinvestment is advisable, though tracking the ratio of one-time to repeat customers is important to monitor churn risk that often comes with rapid growth.
+<p align="center">
+<img src="https://github.com/EmSomsanook/Kaohom-Jewelry-Business-Analysis/blob/74723d4a6df22ecf84874e24bfbb2782b621cc68/viz%20%26%20screenshot/Screenshot%20(13).png" width=450>
+</p>
+
 ### Key Product Performance
 ### Sales Trend and Growth Rate
 - Revenue held steady at around $10 million per month, with a sharp 300% spike in December 2024. Monthly orders averaged about 1,000, also seeing a similar spike. The sudden jump was mainly due to my data mock-up not being as realistic as it should’ve been. It's a good reminder of how important accurate test data is for reliable analysis.
