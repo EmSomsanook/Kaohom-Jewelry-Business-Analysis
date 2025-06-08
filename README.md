@@ -11,6 +11,7 @@ Table of Contents:
   - [Sales Trend and Growth Rate](#Sales-Trend-and-Growth-Rate)
   - [Net Earnings](#Net-Earnings)
   - [Email Funnel Performance: Conversion Analysis](#Email-Funnel-Performance-Conversion-Analysis)
+- [Some reflections](#Some-reflections)
 - [Let's Connect](#Let's-Connect)
 ## Project Background
 Kaohom Jewelry is a mock business dataset I created for a learning project, simulating operations from January 2022 to December 2024. The business specializes in jewelry accessories, including silver, pearl, gold, and diamond pieces. The dataset is designed to reflect real-world complexity, covering multiple levels of analysis: transactional, customer, marketing performance, manpower, funnel performance, business efficiency and business outcomes.
@@ -140,6 +141,14 @@ This analysis is based on 35,000 sales records from 2022 to 2024, with total rev
 </p>
 
 ---
+## Some reflections
+Some parts of the mock data used in this project may not fully reflect real-world complexity, but they were sufficient for demonstrating the key concepts and analysis in this showcase.
+
+There are also components I could have included, such as customer segmentation or even machine learning predictions. But I decided to keep the scope focused, as those areas can become quite complex.
+
+That said, I haven’t yet had the opportunity to work on a real stakeholder-driven project. I’m aware that there's still much for me to learn and improve when it comes to applying data in business-critical contexts.
+
+---
 ## Let's Connect
 
 Thanks for checking out this project!  
@@ -148,6 +157,6 @@ If you're into data, insights, and clean storytelling through numbers, feel free
 
 And if you're building something where making measurable impact is a key focus, I’d be glad to learn more.
 
-📬 [Somsanoukem@gmail.coml]
+📬 [Somsanoukem@gmail.com]
 
 
